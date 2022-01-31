@@ -1,5 +1,4 @@
-# modal
-Basic modal
+# Basic Modal
 
 If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
 
